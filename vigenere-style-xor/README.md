@@ -1,4 +1,4 @@
-### Output
+### Example
 
 ```bash
 $ ./main.sh always_connected hi
